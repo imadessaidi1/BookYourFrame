@@ -1,0 +1,31 @@
+20-May-2021 21:26:49.829 INFOS [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring'
+20-May-2021 21:26:49.863 INFOS [main] org.apache.catalina.core.ApplicationContext.log Testing for YAML resources at: ${LOGIN_CONFIG_URL}
+20-May-2021 21:26:49.864 INFOS [main] org.apache.catalina.core.ApplicationContext.log Testing for YAML resources at: file:${LOGIN_CONFIG_PATH}/login.yml
+20-May-2021 21:26:49.865 INFOS [main] org.apache.catalina.core.ApplicationContext.log Testing for YAML resources at: file:${CLOUD_FOUNDRY_CONFIG_PATH}/login.yml
+20-May-2021 21:26:49.866 INFOS [main] org.apache.catalina.core.ApplicationContext.log Testing for YAML resources at: ${UAA_CONFIG_URL}
+20-May-2021 21:26:49.866 INFOS [main] org.apache.catalina.core.ApplicationContext.log Testing for YAML resources at: file:${UAA_CONFIG_FILE}
+20-May-2021 21:26:49.867 INFOS [main] org.apache.catalina.core.ApplicationContext.log Testing for YAML resources at: file:/Users/mac/Documents/workspace/bookyourframeparent/UAA/uaa.yml
+20-May-2021 21:26:49.867 INFOS [main] org.apache.catalina.core.ApplicationContext.log Testing for YAML resources at: file:${CLOUD_FOUNDRY_CONFIG_PATH}/uaa.yml
+20-May-2021 21:26:49.868 INFOS [main] org.apache.catalina.core.ApplicationContext.log Loading YAML environment properties from location: [class path resource [uaa.yml], URL [file:/Users/mac/Documents/workspace/bookyourframeparent/UAA/uaa.yml]]
+20-May-2021 21:26:58.253 INFOS [main] org.apache.catalina.core.ApplicationContext.log Setting active profiles: default,hsqldb
+20-May-2021 21:26:58.254 INFOS [main] org.apache.catalina.core.ApplicationContext.log Loading log4j config from location: classpath:log4j.properties
+20-May-2021 21:27:10.451 INFOS [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring'
+20-May-2021 21:27:10.489 INFOS [main] org.apache.catalina.core.ApplicationContext.log Testing for YAML resources at: ${LOGIN_CONFIG_URL}
+20-May-2021 21:27:10.491 INFOS [main] org.apache.catalina.core.ApplicationContext.log Testing for YAML resources at: file:${LOGIN_CONFIG_PATH}/login.yml
+20-May-2021 21:27:10.492 INFOS [main] org.apache.catalina.core.ApplicationContext.log Testing for YAML resources at: file:${CLOUD_FOUNDRY_CONFIG_PATH}/login.yml
+20-May-2021 21:27:10.493 INFOS [main] org.apache.catalina.core.ApplicationContext.log Testing for YAML resources at: ${UAA_CONFIG_URL}
+20-May-2021 21:27:10.493 INFOS [main] org.apache.catalina.core.ApplicationContext.log Testing for YAML resources at: file:${UAA_CONFIG_FILE}
+20-May-2021 21:27:10.494 INFOS [main] org.apache.catalina.core.ApplicationContext.log Testing for YAML resources at: file:/Users/mac/Documents/workspace/bookyourframeparent/UAA/uaa.yml
+20-May-2021 21:27:10.495 INFOS [main] org.apache.catalina.core.ApplicationContext.log Testing for YAML resources at: file:${CLOUD_FOUNDRY_CONFIG_PATH}/uaa.yml
+20-May-2021 21:27:10.495 INFOS [main] org.apache.catalina.core.ApplicationContext.log Loading YAML environment properties from location: [class path resource [uaa.yml], URL [file:/Users/mac/Documents/workspace/bookyourframeparent/UAA/uaa.yml]]
+20-May-2021 21:27:14.370 INFOS [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-May-2021 21:27:14.370 INFOS [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-May-2021 21:27:14.371 INFOS [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1dcfbad1')
+20-May-2021 21:27:19.621 INFOS [main] org.apache.catalina.core.ApplicationContext.log Setting active profiles: default,hsqldb
+20-May-2021 21:27:19.623 INFOS [main] org.apache.catalina.core.ApplicationContext.log Loading log4j config from location: classpath:log4j.properties
+20-May-2021 21:27:37.044 INFOS [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-May-2021 21:27:37.045 INFOS [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-May-2021 21:27:37.045 INFOS [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1acd952e')
+20-May-2021 21:27:37.078 INFOS [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-May-2021 21:27:37.210 INFOS [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+20-May-2021 21:27:37.210 INFOS [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()

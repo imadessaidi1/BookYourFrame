@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apigateway" />
+        <module name="configserver" />
+        <module name="IAM-config" />
+        <module name="IAM-controller" />
+        <module name="IAM-dao" />
+        <module name="IAM-front" />
+        <module name="IAM-launcher" />
+        <module name="IAM-service" />
+        <module name="registrationanddiscoverysrever" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apigateway" target="1.8" />
+      <module name="bookyourframeparent" target="1.8" />
+      <module name="configclient" target="1.8" />
+      <module name="configserver" target="1.8" />
+      <module name="IAM-config" target="1.8" />
+      <module name="IAM-controller" target="1.8" />
+      <module name="IAM-dao" target="1.8" />
+      <module name="IAM-front" target="1.8" />
+      <module name="IAM-launcher" target="1.8" />
+      <module name="IAM-service" target="1.8" />
+      <module name="IAMparent" target="1.8" />
+      <module name="loadbalancer" target="1.8" />
+      <module name="registrationanddiscoverysrever" target="1.8" />
+      <module name="securitygateway" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+2020-05-02 13:31:32,593 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [SpringContextShutdownHook] Unregistering application DISCOVERY-SEREVER with eureka with status DOWN
+2020-05-02 13:31:32,674 INFO com.netflix.servo.monitor.StatsMonitor [SpringContextShutdownHook] Attempting to get the value for an expired monitor: eurekaServer.replication.batchSize.Will start computing stats again.
+2020-05-02 13:31:32,712 INFO com.netflix.servo.monitor.StatsMonitor [SpringContextShutdownHook] Attempting to get the value for an expired monitor: eurekaServer.replication.executionTime.Will start computing stats again.
+2020-05-02 13:31:32,714 INFO com.netflix.servo.monitor.StatsMonitor [SpringContextShutdownHook] Attempting to get the value for an expired monitor: eurekaServer.replication.executionTime.Will start computing stats again.
+2020-05-02 13:31:32,716 INFO com.netflix.servo.monitor.StatsMonitor [SpringContextShutdownHook] Attempting to get the value for an expired monitor: eurekaServer.replication.batchSize.Will start computing stats again.
+2020-05-02 13:31:32,747 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'

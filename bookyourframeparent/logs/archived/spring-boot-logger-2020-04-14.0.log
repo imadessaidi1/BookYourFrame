@@ -1,0 +1,712 @@
+2020-04-14 12:25:07,393 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14102 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:25:07,398 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:25:08,188 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 1.377 seconds (JVM running for 1.798)
+2020-04-14 12:25:49,535 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14107 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:25:49,538 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:25:50,336 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 1.344 seconds (JVM running for 1.764)
+2020-04-14 12:26:56,129 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14112 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:26:56,133 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:26:56,930 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 1.275 seconds (JVM running for 1.676)
+2020-04-14 12:30:26,636 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14125 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:30:26,642 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:30:27,904 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:30:27,914 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:30:27,915 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:30:27,915 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:30:28,000 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:30:28,001 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1275 ms
+2020-04-14 12:30:28,392 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:30:28,520 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:30:28,640 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:30:28,664 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:30:28,699 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:30:28,847 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:30:28,875 INFO org.apache.juli.logging.DirectJDKLog [main] Pausing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:30:28,876 INFO org.apache.juli.logging.DirectJDKLog [main] Stopping service [Tomcat]
+2020-04-14 12:30:28,880 INFO org.apache.juli.logging.DirectJDKLog [main] Stopping ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:30:28,881 INFO org.apache.juli.logging.DirectJDKLog [main] Destroying ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:30:28,883 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-14 12:30:28,885 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2020-04-14 12:30:28,887 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:30:42,842 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14128 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:30:42,846 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:30:44,144 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:30:44,155 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:30:44,155 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:30:44,156 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:30:44,241 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:30:44,242 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1314 ms
+2020-04-14 12:30:44,622 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:30:44,758 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:30:44,876 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:30:44,897 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:30:44,923 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:30:45,074 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:30:45,109 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 12:30:45,113 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.843 seconds (JVM running for 3.266)
+2020-04-14 12:32:37,280 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:32:56,518 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14141 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:32:56,521 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:32:57,765 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:32:57,776 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:32:57,777 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:32:57,777 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:32:57,867 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:32:57,868 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1275 ms
+2020-04-14 12:32:58,280 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:32:58,465 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:32:58,613 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:32:58,638 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:32:58,667 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:32:58,850 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:32:58,888 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 12:32:58,892 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.939 seconds (JVM running for 3.371)
+2020-04-14 12:33:45,945 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 12:33:45,945 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 12:33:45,953 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 7 ms
+2020-04-14 12:38:16,263 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:38:20,264 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14167 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:38:20,268 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:38:21,510 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:38:21,520 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:38:21,521 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:38:21,521 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:38:21,601 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:38:21,602 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1262 ms
+2020-04-14 12:38:21,982 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:38:22,123 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:38:22,245 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:38:22,268 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:38:22,303 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:38:22,479 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:38:22,512 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 12:38:22,516 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.813 seconds (JVM running for 3.237)
+2020-04-14 12:38:38,190 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 12:38:38,190 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 12:38:38,197 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 7 ms
+2020-04-14 12:38:53,652 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-3] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [No adapter for handler [com.bookyourframe.IAM.IAMcontroller.controller.AuthetificationContrller@6401d0a0]: The DispatcherServlet configuration needs to include a HandlerAdapter that supports this handler] with root cause
+javax.servlet.ServletException: No adapter for handler [com.bookyourframe.IAM.IAMcontroller.controller.AuthetificationContrller@6401d0a0]: The DispatcherServlet configuration needs to include a HandlerAdapter that supports this handler
+	at org.springframework.web.servlet.DispatcherServlet.getHandlerAdapter(DispatcherServlet.java:1275)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1023)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1594)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2020-04-14 12:40:08,947 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:40:23,936 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14171 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:40:23,940 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:40:25,217 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:40:25,227 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:40:25,228 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:40:25,228 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:40:25,312 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:40:25,313 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1289 ms
+2020-04-14 12:40:25,696 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:40:25,777 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:40:25,965 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:40:25,988 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:40:26,016 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:40:26,169 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:40:26,204 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 12:40:26,207 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.834 seconds (JVM running for 3.259)
+2020-04-14 12:40:31,711 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 12:40:31,712 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 12:40:31,718 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2020-04-14 12:40:31,739 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [No adapter for handler [com.bookyourframe.IAM.IAMcontroller.controller.AuthetificationContrller@23811a09]: The DispatcherServlet configuration needs to include a HandlerAdapter that supports this handler] with root cause
+javax.servlet.ServletException: No adapter for handler [com.bookyourframe.IAM.IAMcontroller.controller.AuthetificationContrller@23811a09]: The DispatcherServlet configuration needs to include a HandlerAdapter that supports this handler
+	at org.springframework.web.servlet.DispatcherServlet.getHandlerAdapter(DispatcherServlet.java:1275)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1023)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1594)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2020-04-14 12:40:49,263 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:44:09,920 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14184 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:44:09,924 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:44:11,194 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:44:11,205 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:44:11,205 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:44:11,206 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:44:11,290 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:44:11,291 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1277 ms
+2020-04-14 12:44:11,662 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:44:11,811 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:44:11,919 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:44:11,947 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:44:11,975 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:44:12,125 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:44:12,161 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 12:44:12,164 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.809 seconds (JVM running for 3.228)
+2020-04-14 12:44:20,121 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 12:44:20,122 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 12:44:20,129 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 7 ms
+2020-04-14 12:44:42,926 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:44:55,111 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14188 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:44:55,117 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:44:56,357 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:44:56,368 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:44:56,368 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:44:56,369 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:44:56,456 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:44:56,456 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1263 ms
+2020-04-14 12:44:56,848 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:44:56,988 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:44:57,103 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:44:57,124 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:44:57,152 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:44:57,295 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:44:57,335 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 12:44:57,339 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.791 seconds (JVM running for 3.209)
+2020-04-14 12:45:04,098 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 12:45:04,098 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 12:45:04,105 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2020-04-14 12:45:18,534 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:45:28,045 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14192 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:45:28,049 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:45:29,295 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:45:29,307 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:45:29,307 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:45:29,308 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:45:29,390 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:45:29,391 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1264 ms
+2020-04-14 12:45:29,768 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:45:29,910 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:45:30,020 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:45:30,041 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:45:30,066 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:45:30,207 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:45:30,243 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 12:45:30,248 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.773 seconds (JVM running for 3.192)
+2020-04-14 12:45:39,983 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 12:45:39,984 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 12:45:39,990 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2020-04-14 12:46:12,932 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:46:22,802 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14196 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:46:22,805 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:46:24,096 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:46:24,106 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:46:24,107 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:46:24,107 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:46:24,194 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:46:24,194 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1301 ms
+2020-04-14 12:46:24,572 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:46:24,712 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:46:24,828 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:46:24,851 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:46:24,875 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:46:25,023 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:46:25,067 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 12:46:25,070 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.828 seconds (JVM running for 3.25)
+2020-04-14 12:46:40,726 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 12:46:40,726 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 12:46:40,732 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2020-04-14 12:46:55,323 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:47:06,258 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14200 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:47:06,262 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:47:07,520 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:47:07,531 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:47:07,532 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:47:07,532 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:47:07,617 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:47:07,617 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1269 ms
+2020-04-14 12:47:08,002 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:47:08,128 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:47:08,240 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:47:08,261 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:47:08,289 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:47:08,438 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:47:08,486 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 12:47:08,491 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.796 seconds (JVM running for 3.204)
+2020-04-14 12:47:14,879 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 12:47:14,880 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 12:47:14,885 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+2020-04-14 12:47:47,098 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14202 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:47:47,101 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:47:48,368 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:47:48,379 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:47:48,379 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:47:48,380 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:47:48,464 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:47:48,465 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1275 ms
+2020-04-14 12:47:48,850 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:47:48,991 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:47:49,108 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:47:49,129 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:47:49,155 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:47:49,311 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:47:49,340 INFO org.apache.juli.logging.DirectJDKLog [main] Pausing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:47:49,340 INFO org.apache.juli.logging.DirectJDKLog [main] Stopping service [Tomcat]
+2020-04-14 12:47:49,347 INFO org.apache.juli.logging.DirectJDKLog [main] Stopping ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:47:49,348 INFO org.apache.juli.logging.DirectJDKLog [main] Destroying ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:47:49,351 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-14 12:47:49,353 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2020-04-14 12:47:49,355 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:47:59,821 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:48:01,557 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14205 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:48:01,562 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:48:02,807 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:48:02,817 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:48:02,818 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:48:02,818 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:48:02,909 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:48:02,910 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1266 ms
+2020-04-14 12:48:03,290 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:48:03,417 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:48:03,524 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:48:03,544 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:48:03,569 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:48:03,714 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:48:03,750 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 12:48:03,756 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.772 seconds (JVM running for 3.221)
+2020-04-14 12:48:12,959 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 12:48:12,960 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 12:48:12,966 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2020-04-14 12:48:26,338 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:48:29,958 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14208 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:48:29,964 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:48:31,230 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:48:31,241 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:48:31,242 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:48:31,242 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:48:31,324 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:48:31,325 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1281 ms
+2020-04-14 12:48:31,706 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:48:31,846 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:48:31,964 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:48:31,988 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:48:32,012 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:48:32,159 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:48:32,198 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 12:48:32,202 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.802 seconds (JVM running for 3.224)
+2020-04-14 12:48:39,142 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 12:48:39,143 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 12:48:39,149 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2020-04-14 12:49:02,572 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:49:05,723 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14211 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:49:05,727 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:49:07,009 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:49:07,019 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:49:07,020 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:49:07,020 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:49:07,102 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:49:07,102 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1287 ms
+2020-04-14 12:49:07,462 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:49:07,546 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:49:07,730 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:49:07,755 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:49:07,783 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:49:07,948 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:49:07,983 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 12:49:07,987 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.809 seconds (JVM running for 3.216)
+2020-04-14 12:49:30,930 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 12:49:30,930 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 12:49:30,935 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+2020-04-14 12:49:40,417 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:49:43,984 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14214 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:49:43,988 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:49:45,260 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:49:45,272 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:49:45,272 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:49:45,272 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:49:45,358 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:49:45,358 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1284 ms
+2020-04-14 12:49:45,721 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:49:45,807 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:49:45,996 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:49:46,016 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:49:46,044 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:49:46,201 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:49:46,244 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 12:49:46,250 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.817 seconds (JVM running for 3.231)
+2020-04-14 12:49:51,055 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 12:49:51,056 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 12:49:51,063 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 7 ms
+2020-04-14 12:52:20,392 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:52:32,764 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14224 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:52:32,768 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:52:34,015 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:52:34,026 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:52:34,026 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:52:34,027 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:52:34,109 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:52:34,109 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1256 ms
+2020-04-14 12:52:34,485 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:52:34,624 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:52:34,743 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:52:34,759 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:52:34,785 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:52:34,958 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:52:35,000 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 12:52:35,004 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.782 seconds (JVM running for 3.2)
+2020-04-14 12:52:39,017 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:53:28,579 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14229 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 12:53:28,583 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 12:53:29,876 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 12:53:29,887 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:53:29,888 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 12:53:29,888 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 12:53:29,978 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 12:53:29,978 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1326 ms
+2020-04-14 12:53:30,330 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 12:53:30,466 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 12:53:30,575 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 12:53:30,592 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 12:53:30,617 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 12:53:30,771 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 12:53:30,806 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 12:53:30,809 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.713 seconds (JVM running for 3.107)
+2020-04-14 12:53:35,580 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 12:53:35,580 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 12:53:35,586 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+2020-04-14 13:18:56,915 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 13:19:08,895 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Fetching config from server at : http://localhost:8888
+2020-04-14 13:19:08,992 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2020-04-14 13:19:08,993 WARN org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/application/default": Connection refused; nested exception is java.net.ConnectException: Connection refused
+2020-04-14 13:19:08,995 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 13:19:09,806 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=5164b386-4544-3021-9dd4-512d7a3ae33e
+2020-04-14 13:19:10,151 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 13:19:10,161 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 13:19:10,161 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 13:19:10,162 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 13:19:10,352 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 13:19:10,352 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1339 ms
+2020-04-14 13:19:10,724 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 13:19:10,825 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 13:19:11,046 INFO org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration [main] 
+
+Using generated security password: 9926e567-2cb7-47c5-8e50-ad0610497da2
+
+2020-04-14 13:19:11,134 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@574059d5, org.springframework.security.web.context.SecurityContextPersistenceFilter@2a7d9b41, org.springframework.security.web.header.HeaderWriterFilter@144ab983, org.springframework.security.web.csrf.CsrfFilter@67bd351e, org.springframework.security.web.authentication.logout.LogoutFilter@3a36cd5, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@664632e9, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@7e3d7dd, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@6d672bd4, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@5cd96b41, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5d1b1c2a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@36790bec, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@67770b37, org.springframework.security.web.session.SessionManagementFilter@609319c3, org.springframework.security.web.access.ExceptionTranslationFilter@706ddbc8, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5eabff6b]
+2020-04-14 13:19:11,182 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 13:19:11,196 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 13:19:11,220 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 13:19:11,366 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 13:19:11,398 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 13:19:11,402 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 3.516 seconds (JVM running for 3.937)
+2020-04-14 13:19:26,268 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 13:19:26,269 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 13:19:26,276 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 7 ms
+2020-04-14 13:20:29,494 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 13:20:35,094 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Fetching config from server at : http://localhost:8888
+2020-04-14 13:20:35,194 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2020-04-14 13:20:35,195 WARN org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/application/default": Connection refused; nested exception is java.net.ConnectException: Connection refused
+2020-04-14 13:20:35,196 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 13:20:35,990 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=74e5c768-ff91-3e90-b8e0-faf662b267cf
+2020-04-14 13:20:36,338 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 13:20:36,348 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 13:20:36,348 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 13:20:36,349 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 13:20:36,452 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 13:20:36,452 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1234 ms
+2020-04-14 13:20:36,877 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 13:20:36,976 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 13:20:37,186 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 13:20:37,201 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 13:20:37,226 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 13:20:37,351 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 13:20:37,383 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 13:20:37,386 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 3.307 seconds (JVM running for 3.717)
+2020-04-14 13:20:42,020 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 13:20:42,021 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 13:20:42,026 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+2020-04-14 13:21:43,089 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 13:21:47,878 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14269 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 13:21:47,883 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 13:21:49,199 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 13:21:49,210 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 13:21:49,211 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 13:21:49,211 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 13:21:49,302 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 13:21:49,303 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1337 ms
+2020-04-14 13:21:49,721 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 13:21:49,810 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 13:21:49,985 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 13:21:50,000 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 13:21:50,025 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 13:21:50,166 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 13:21:50,203 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 13:21:50,206 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.848 seconds (JVM running for 3.253)
+2020-04-14 13:21:57,236 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 13:21:57,236 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 13:21:57,241 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+2020-04-14 13:24:38,297 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 13:24:42,251 INFO org.springframework.boot.StartupInfoLogger [main] Starting IAMApplication on macs-mbp.home with PID 14278 (/Users/mac/Documents/workspace/bookyourframeparent/IAMparent/IAM-launcher/target/classes started by mac in /Users/mac/Documents/workspace/bookyourframeparent)
+2020-04-14 13:24:42,256 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 13:24:43,545 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 13:24:43,555 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 13:24:43,556 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 13:24:43,556 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 13:24:43,644 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 13:24:43,645 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1306 ms
+2020-04-14 13:24:44,047 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 13:24:44,145 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 13:24:44,331 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 13:24:44,350 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 13:24:44,375 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 13:24:44,516 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 13:24:44,549 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 13:24:44,556 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 2.823 seconds (JVM running for 3.238)
+2020-04-14 13:24:49,822 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 13:24:49,822 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 13:24:49,827 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+2020-04-14 20:18:56,854 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 20:20:57,984 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Fetching config from server at : http://localhost:8888
+2020-04-14 20:20:58,773 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Located environment: name=client-1-application, profiles=[default], label=null, version=ec7a555f63c4159650e35a220c58d4003bceabfd, state=null
+2020-04-14 20:20:58,774 INFO org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration [main] Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-/Users/mac/Documents/GitHub/config/application.properties'}]
+2020-04-14 20:20:58,782 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 20:20:59,560 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=74e5c768-ff91-3e90-b8e0-faf662b267cf
+2020-04-14 20:20:59,882 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 20:20:59,891 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 20:20:59,892 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 20:20:59,892 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 20:21:00,037 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 20:21:00,038 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1233 ms
+2020-04-14 20:21:00,393 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 20:21:00,483 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 20:21:00,701 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 20:21:00,716 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 20:21:00,740 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 20:21:00,858 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 20:21:00,887 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 20:21:00,890 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 3.912 seconds (JVM running for 4.346)
+2020-04-14 20:21:28,450 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 20:21:28,450 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 20:21:28,456 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2020-04-14 21:08:10,497 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 21:08:13,047 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Fetching config from server at : http://localhost:8888
+2020-04-14 21:08:14,769 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Located environment: name=client-1-application, profiles=[default], label=null, version=ec7a555f63c4159650e35a220c58d4003bceabfd, state=null
+2020-04-14 21:08:14,771 INFO org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration [main] Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-/Users/mac/Documents/GitHub/config/application.properties'}]
+2020-04-14 21:08:14,778 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 21:08:15,456 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=74e5c768-ff91-3e90-b8e0-faf662b267cf
+2020-04-14 21:08:15,839 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 21:08:15,854 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 21:08:15,855 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 21:08:15,855 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 21:08:16,015 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 21:08:16,015 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1214 ms
+2020-04-14 21:08:16,357 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 21:08:16,458 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 21:08:16,661 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 21:08:16,677 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 21:08:16,700 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 21:08:16,817 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 21:08:16,850 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 21:08:16,854 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 4.945 seconds (JVM running for 5.626)
+2020-04-14 21:09:07,509 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 21:09:07,509 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 21:09:07,516 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 7 ms
+2020-04-14 21:34:18,247 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 21:34:20,610 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Fetching config from server at : http://localhost:8888
+2020-04-14 21:34:21,448 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Located environment: name=client-1-application, profiles=[default], label=null, version=ec7a555f63c4159650e35a220c58d4003bceabfd, state=null
+2020-04-14 21:34:21,450 INFO org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration [main] Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-/Users/mac/Documents/GitHub/config/application.properties'}]
+2020-04-14 21:34:21,458 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 21:34:22,343 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=74e5c768-ff91-3e90-b8e0-faf662b267cf
+2020-04-14 21:34:22,675 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 21:34:22,685 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 21:34:22,685 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 21:34:22,686 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 21:34:22,834 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 21:34:22,835 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1355 ms
+2020-04-14 21:34:23,178 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 21:34:23,275 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 21:34:23,480 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 21:34:23,494 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 21:34:23,524 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 21:34:23,642 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 21:34:23,673 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 21:34:23,676 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 4.287 seconds (JVM running for 4.721)
+2020-04-14 21:34:50,917 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 21:34:50,917 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 21:34:50,922 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+2020-04-14 21:47:16,922 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 21:47:19,193 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Fetching config from server at : http://localhost:8888
+2020-04-14 21:47:19,950 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Located environment: name=client-1-application, profiles=[default], label=null, version=44db7078958256e714eac4097217c25a352220e6, state=null
+2020-04-14 21:47:19,951 INFO org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration [main] Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}]
+2020-04-14 21:47:19,958 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 21:47:20,838 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=74e5c768-ff91-3e90-b8e0-faf662b267cf
+2020-04-14 21:47:21,225 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 21:47:21,234 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 21:47:21,235 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 21:47:21,235 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 21:47:21,389 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 21:47:21,389 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1409 ms
+2020-04-14 21:47:21,756 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 21:47:21,869 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 21:47:22,072 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 21:47:22,087 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 21:47:22,111 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 21:47:22,227 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 21:47:22,257 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 21:47:22,261 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 4.133 seconds (JVM running for 4.615)
+2020-04-14 21:47:30,134 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 21:47:30,135 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 21:47:30,140 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+2020-04-14 21:48:49,485 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 21:48:51,750 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Fetching config from server at : http://localhost:8888
+2020-04-14 21:48:51,931 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Located environment: name=a-bootiful-client, profiles=[default], label=null, version=44db7078958256e714eac4097217c25a352220e6, state=null
+2020-04-14 21:48:51,932 INFO org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration [main] Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-/Users/mac/Documents/GitHub/config/a-bootiful-client.properties'}]
+2020-04-14 21:48:51,941 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 21:48:52,786 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=74e5c768-ff91-3e90-b8e0-faf662b267cf
+2020-04-14 21:48:53,164 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 21:48:53,173 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 21:48:53,174 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 21:48:53,174 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 21:48:53,280 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 21:48:53,281 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1300 ms
+2020-04-14 21:48:53,744 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 21:48:53,849 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 21:48:54,057 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 21:48:54,072 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 21:48:54,094 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 21:48:54,203 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 21:48:54,237 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 21:48:54,241 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 3.565 seconds (JVM running for 4.028)
+2020-04-14 21:49:27,197 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 21:49:27,197 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 21:49:27,202 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+2020-04-14 21:51:17,321 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 21:51:20,579 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Fetching config from server at : http://localhost:8888
+2020-04-14 21:51:20,749 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Located environment: name=a-bootiful-client, profiles=[default], label=null, version=44db7078958256e714eac4097217c25a352220e6, state=null
+2020-04-14 21:51:20,751 INFO org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration [main] Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-/Users/mac/Documents/GitHub/config/a-bootiful-client.properties'}]
+2020-04-14 21:51:20,764 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 21:51:21,538 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=74e5c768-ff91-3e90-b8e0-faf662b267cf
+2020-04-14 21:51:21,906 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 21:51:21,916 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 21:51:21,917 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 21:51:21,917 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 21:51:22,063 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 21:51:22,063 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1256 ms
+2020-04-14 21:51:22,441 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 21:51:22,542 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 21:51:22,749 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 21:51:22,765 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 21:51:22,790 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 21:51:22,913 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 21:51:22,942 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 21:51:22,945 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 3.535 seconds (JVM running for 3.999)
+2020-04-14 21:51:29,997 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 21:51:29,997 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 21:51:30,002 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+2020-04-14 21:55:09,715 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-14 21:55:13,084 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Fetching config from server at : http://localhost:8888
+2020-04-14 21:55:13,254 INFO org.springframework.cloud.config.client.ConfigServicePropertySourceLocator [main] Located environment: name=a-bootiful-client, profiles=[default], label=null, version=44db7078958256e714eac4097217c25a352220e6, state=null
+2020-04-14 21:55:13,255 INFO org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration [main] Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-/Users/mac/Documents/GitHub/config/a-bootiful-client.properties'}]
+2020-04-14 21:55:13,261 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-14 21:55:14,044 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=74e5c768-ff91-3e90-b8e0-faf662b267cf
+2020-04-14 21:55:14,414 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-04-14 21:55:14,427 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-14 21:55:14,429 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-04-14 21:55:14,429 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-14 21:55:14,608 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-04-14 21:55:14,608 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1311 ms
+2020-04-14 21:55:15,012 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-14 21:55:15,121 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-14 21:55:15,335 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-04-14 21:55:15,349 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-04-14 21:55:15,375 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-04-14 21:55:15,498 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-04-14 21:55:15,528 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-14 21:55:15,531 INFO org.springframework.boot.StartupInfoLogger [main] Started IAMApplication in 3.688 seconds (JVM running for 4.163)
+2020-04-14 21:55:22,522 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-14 21:55:22,522 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-14 21:55:22,527 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 5 ms

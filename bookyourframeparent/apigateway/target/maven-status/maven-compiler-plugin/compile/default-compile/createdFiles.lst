@@ -1,0 +1,4 @@
+com/bookyourframe/apigateway/ApplicationListenerBean.class
+com/bookyourframe/apigateway/GatewayFallback.class
+com/bookyourframe/apigateway/APIGatewayApplication.class
+com/bookyourframe/apigateway/FallbackResponse.class

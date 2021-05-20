@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IAMparent/IAM-config/IAM-config.iml" filepath="$PROJECT_DIR$/IAMparent/IAM-config/IAM-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IAMparent/IAM-controller/IAM-controller.iml" filepath="$PROJECT_DIR$/IAMparent/IAM-controller/IAM-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IAMparent/IAM-dao/IAM-dao.iml" filepath="$PROJECT_DIR$/IAMparent/IAM-dao/IAM-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IAMparent/IAM-front/IAM-front.iml" filepath="$PROJECT_DIR$/IAMparent/IAM-front/IAM-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IAMparent/IAM-launcher/IAM-launcher.iml" filepath="$PROJECT_DIR$/IAMparent/IAM-launcher/IAM-launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IAMparent/IAM-service/IAM-service.iml" filepath="$PROJECT_DIR$/IAMparent/IAM-service/IAM-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IAMparent/IAMparent.iml" filepath="$PROJECT_DIR$/IAMparent/IAMparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apigateway/apigateway.iml" filepath="$PROJECT_DIR$/apigateway/apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookyourframeparent.iml" filepath="$PROJECT_DIR$/bookyourframeparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registrationanddiscoverysrever/registrationanddiscoverysrever.iml" filepath="$PROJECT_DIR$/registrationanddiscoverysrever/registrationanddiscoverysrever.iml" />
+    </modules>
+  </component>
+</project>
