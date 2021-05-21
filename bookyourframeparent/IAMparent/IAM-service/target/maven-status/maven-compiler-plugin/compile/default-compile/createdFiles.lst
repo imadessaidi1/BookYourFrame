@@ -1,6 +1,0 @@
-com/bookyourframe/IAM/IAMservice/service/IamService.class
-com/bookyourframe/IAM/IAMservice/impl/IamServiceImpl.class
-com/bookyourframe/IAM/IAMservice/dto/CredentialsDTO.class
-com/bookyourframe/IAM/IAMservice/dto/UserDTO.class
-com/bookyourframe/IAM/IAMservice/exception/UserNotFoundException.class
-com/bookyourframe/IAM/IAMservice/helpers/MD5Utils.class

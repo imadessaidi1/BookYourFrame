@@ -1,0 +1,16 @@
+2021-05-21 10:30:32,674 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2021-05-21 10:35:32,685 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2021-05-21 10:40:32,681 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2021-05-21 10:45:40,921 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2021-05-21 10:50:40,915 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2021-05-21 10:55:40,913 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2021-05-21 11:00:40,921 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2021-05-21 11:08:55,679 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2021-05-21 11:17:19,835 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [SpringContextShutdownHook] Unregistering application APIGATEWAYAPPLICATION with eureka with status DOWN
+2021-05-21 11:17:19,838 WARN com.netflix.discovery.DiscoveryClient$3 [SpringContextShutdownHook] Saw local status change event StatusChangeEvent [timestamp=1621588639838, current=DOWN, previous=UP]
+2021-05-21 11:17:19,841 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_APIGATEWAYAPPLICATION/macs-mbp:APIGatewayApplication:8083: registering service...
+2021-05-21 11:17:19,857 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_APIGATEWAYAPPLICATION/macs-mbp:APIGatewayApplication:8083 - registration status: 204
+2021-05-21 11:17:22,025 INFO com.netflix.discovery.DiscoveryClient [SpringContextShutdownHook] Shutting down DiscoveryClient ...
+2021-05-21 11:17:25,041 INFO com.netflix.discovery.DiscoveryClient [SpringContextShutdownHook] Unregistering ...
+2021-05-21 11:17:25,067 INFO com.netflix.discovery.DiscoveryClient [SpringContextShutdownHook] DiscoveryClient_APIGATEWAYAPPLICATION/macs-mbp:APIGatewayApplication:8083 - deregister  status: 200
+2021-05-21 11:17:25,101 INFO com.netflix.discovery.DiscoveryClient [SpringContextShutdownHook] Completed shut down of DiscoveryClient
